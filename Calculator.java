@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream:Calculator.java
+=======
+package junit;
+
+>>>>>>> Stashed changes:junit/src/main/java/junit/Calculator.java
 /**
  * Defines all the methods that a Calculator should have
  */
