@@ -1,4 +1,4 @@
-package junit;
+package junit.src.main.java.junit;
 
 /**
  * Defines all the methods that a Calculator should have
