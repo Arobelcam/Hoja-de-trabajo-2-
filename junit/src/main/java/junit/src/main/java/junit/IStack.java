@@ -4,7 +4,7 @@ package junit.src.main.java.junit;
  * Defines all the methods that a Stack should have.
  * @param <E> Type of the items stored on the Stack. Example: String
  */
-public interface Stack<E> {
+public interface IStack<E> {
     /**
      * Add an item to the stack. Will be popped next.
      * @param item
